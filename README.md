@@ -1,6 +1,6 @@
 # Building a GET API
 
-## Learning Goals
+##  Main Learning Goals
 
 - Build an API to handle GET requests.
 
